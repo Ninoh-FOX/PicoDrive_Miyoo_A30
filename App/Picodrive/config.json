@@ -1,0 +1,6 @@
+{
+    "label":"PicoDrive",
+    "icon":"picodrive.png",
+    "launch":"launch.sh",
+    "description":"PicoDrive standalone emulator"
+}                                                                                                     
